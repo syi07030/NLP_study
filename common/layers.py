@@ -1,5 +1,4 @@
-from turtle import forward
-
+import numpy as np
 
 class MatMul:
     def __init__(self,W):

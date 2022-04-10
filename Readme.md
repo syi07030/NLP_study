@@ -5,3 +5,4 @@ GDSC NLP 스터디 (2022년 상반기)
 소스코드는 책과 https://github.com/WegraLee/deep-learning-from-scratch-2 코드를 바탕으로 작성
 
 2022.3.27 - 2022.4.5 : Chapter1 신경망 복습
+2022.4.6 - 2022.4.11: Chapter2 자연어와 단어의 분산 표현
