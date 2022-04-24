@@ -1,3 +1,4 @@
+from curses import doupdate
 import numpy as np
 
 class MatMul:
@@ -55,3 +56,22 @@ class Affine:
         self.grads[0][...] = dW
         self.grads[1][...] = db
         return dx
+    
+    
+class Embedding:
+    def __init__(self,W):
+        self.params = [W]
+        self.grads = [np.zeros_like(W)]
+        self.idx = None
+        
+    def forward(self,idx):
+        W, = self.params
+        self.idx = idx
+        out = W[idx]
+        return out
+    
+    def backward(self.dout):
+        dW, = self.grads
+        dW[...] = 0
+        np.add.at(dW,self.idx,dout) #중복되는 idx 값들이 있을 수 있기 때문
+        return None
