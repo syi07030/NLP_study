@@ -22,7 +22,8 @@
 -----------------------
 
 ### NLP 공부 -ing
-
+#### kaggle 필사 https://kaggle-kr.tistory.com/32 참조
 - 2022.6.16 - 2022.6.21: X
-- 2022.6.22 - 2022.6.28: kaggle 필사 chapter 1
+- 2022.6.22 - 2022.6.28: kaggle 필사 1st level. Titanic: Machine Learning from Disaster - 타이타닉 튜토리얼1
+- 2022.6.29 - 2022.7.5: kaggle 필사 1st level. Titanic: Machine Learning from Disaster - EDA to Prediction(DieTanic)
 
