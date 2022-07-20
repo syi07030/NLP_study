@@ -28,3 +28,4 @@
 - 2022.6.29 - 2022.7.5: kaggle 필사 1st level. Titanic: Machine Learning from Disaster - EDA to Prediction(DieTanic)
 - 2022.7.6 - 2022.7.12: kaggle 필사 1st level. Titanic: Machine Learning from Disaster - Titanic Top 4% with ensemble modeling
 - 2022.7.13 - 2022.7.19: kaggle 필사 1st level. Titanic: Machine Learning from Disaster - Titanic Top 4% with ensemble modeling
+- 2022.7.20 - 2022.7.26: kaggle 필사 1st level. Titanic: Machine Learning from Disaster - Introduction to Ensembling/Stacking in python
